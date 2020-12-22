@@ -1,9 +1,15 @@
-# [The Freedom Wrapper Project](https://github.com/mdbench/The-Freedom-Wrapper-Project/blob/master/README.md)
-[![GitHub license](https://img.shields.io/github/license/mdbench/The-Freedom-Wrapper-Project?style=for-the-badge)](https://github.com/mdbench/The-Freedom-Wrapper-Project/blob/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/mdbench/The-Freedom-Wrapper-Project?style=for-the-badge)](https://github.com/mdbench/The-Freedom-Wrapper-Project/network) [![GitHub stars](https://img.shields.io/github/stars/mdbench/The-Freedom-Wrapper-Project?style=for-the-badge)](https://github.com/mdbench/The-Freedom-Wrapper-Project/stargazers)
+# [The Freedom Wrapper Project](https://github.com/The-Freedom-Wrapper-Project/thefreedomwrapper/blob/master/README.md)
+[![GitHub license](https://img.shields.io/github/license/The-Freedom-Wrapper-Project/thefreedomwrapper?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/thefreedomwrapper/blob/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/The-Freedom-Wrapper-Project/thefreedomwrapper?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/thefreedomwrapper/network/) [![GitHub stars](https://img.shields.io/github/stars/The-Freedom-Wrapper-Project/thefreedomwrapper?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/thefreedomwrapper/stargazers)
 
-![TFWPBanner](https://raw.githubusercontent.com/mdbench/The-Freedom-Wrapper-Project/master/TFWPLogo.png)
+![TFWPBanner](https://github.com/The-Freedom-Wrapper-Project/tfwp/blob/master/TFWPLogo.png)
 
-## The Freedom Wrapper Guide
+## Notice: **The Freedom Wrapper Guides Disclaimer**
+- The Guides for this section are broken down into two parts. The first part is a comprehensive walkthrough on how to get up and running with TFWP on Android Studio. This is the suggested route for those who would like to become developers. The second part is the walkthrough on how to get up and running with TFWP from your computer browser (yes, this is possible with automated workflows and, yes, you will be able to download an apk straight from the GitHub website to use your wrapper immediately). 
+
+### Table of Contents:
+1. [Getting set-up with TFWP on Android Studio](https://github.com/The-Freedom-Wrapper-Project/thefreedomwrapper#for-newbloods)
+2. [Explore further customization of your TFWP application](https://github.com/The-Freedom-Wrapper-Project/thefreedomwrapper#further-customization)
+3. [Making a TFWP application from your web browser](https://github.com/The-Freedom-Wrapper-Project/thefreedomwrapper#tfwp-from-your-web-browser)
 
 ### For Newbloods:
 
@@ -41,6 +47,17 @@
 
 3. There you go! You have just added a custom icon to your application. There is a lot more customization you can do and I highly suggest you examine all the files in The Freedom Wrapper Project Source code, checking the code comments at your leisure. There are a decent amount of comments that will give you a necessary walk-through. **Enjoy and have some fun!**
 
-### Need help?
+### TFWP From Your Web Browser
+1. First things first, you'll need a GitHub account. Head over to their [sign-up page](https://github.com/join). Move on to the next step once you are logged in to your newly minted GitHub account. *TFWP congratulates you on making the first step towards becoming a community-based developer.* If you already have a GitHub account, you can obviously skip this step and move on to Step 2. *TFWP congratulate you on already being a community-based developer.*
+
+2. Now, you'll need to fork this repository. I won't go step-by-step here because GitHub has an excellent how-to for forking repositories. Please visit the following website for information on forking any GitHub [repository](https://docs.github.com/en/enterprise-server@2.20/github/getting-started-with-github/fork-a-repo#fork-an-example-repository). You might as well get used to **docs** now because you are going to see a lot of them. We like to give people their firsts here at TFWP. 
+
+2. Once you've forked this repository, head back up to the [guide under the Android Studio section](https://github.com/The-Freedom-Wrapper-Project/thefreedomwrapper#for-newbloods). There just wasn't any point in re-writing the same process flow if it was unnecessary. Start at Step #**4** and follow it all the way to Step #**6**, making suring to complete all the steps in between (depending on your need), modifying the files in your newly forked repo through GitHub's browser-based web commit system. GitHub's browser-based web commit system is essentially the same as doing it in Android Studio with one solid exception: you are using a web browser and clicking on the files one at a time or uploading them accordingly. *Believe it or not, this means TFWP has managed to level the playing field for groups that can't afford computers with memory or processing power sufficient to run Android Studio - which is pretty great.* Once you are done modifying your forked repository and feeling good about it, move to Step 3 of this [guide](https://github.com/The-Freedom-Wrapper-Project/thefreedomwrapper#tfwp-from-your-web-browser). I have linked it again in case you didn't know what section I was referring to (this one).
+
+3. Go to the section at the top of your forked repository and click on **"Actions"**. It is next to **"Pull Request"** and **"Projects"**. From there, go to the workflow that says **"android-master.yml"**. It should already be starting its build and generate process. Once it has finished building, you should see a bunch of positive-looking check marks (if you have followed the directions of course), making you feel fairly confident you have just made an application. Scroll all the way down (which is not very far) and click on the icon that looks like a `cube` labelled with the designation `app`. It is under the section on the bottom that says: **"Artifact"**. It will begin to download from your web browser in a zip file. After it downloads, you can unzip the downloaded file and you will see an apk file that you can install on your phone!
+
+4. The best part of this process and this guide is the face you can build and generate an app from your phone web browser. This means TFWP has made the build process mobile, making you much, much safer. You can build from your forked repo whenever you want and whenever the mood hits. Even better, because the artifacts are saved in your repo history, you will be able to have your own Android Store on-the-go in case you feel like deleting your app from your phone and reinstalling it from time-to-time, drastically reducing the vector for attack by decentralizing the app production process. **Enjoy and thank you for using The Freedom Wrapper!**
+
+### Need more help?
 
 - [Join us on Keybase!](https://keybase.io/team/tfwp) 
