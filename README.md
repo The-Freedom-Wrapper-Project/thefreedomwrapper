@@ -1,7 +1,7 @@
 # [The Freedom Wrapper Project](https://github.com/The-Freedom-Wrapper-Project/thefreedomwrapper/blob/master/README.md)
 [![GitHub license](https://img.shields.io/github/license/The-Freedom-Wrapper-Project/thefreedomwrapper?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/thefreedomwrapper/blob/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/The-Freedom-Wrapper-Project/thefreedomwrapper?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/thefreedomwrapper/network/) [![GitHub stars](https://img.shields.io/github/stars/The-Freedom-Wrapper-Project/thefreedomwrapper?style=for-the-badge)](https://github.com/The-Freedom-Wrapper-Project/thefreedomwrapper/stargazers)
 
-![TFWPBanner](https://github.com/The-Freedom-Wrapper-Project/tfwp/blob/master/TFWPLogo.png)
+![TFWPBanner](https://raw.githubusercontent.com/The-Freedom-Wrapper-Project/tfwp/refs/heads/master/TFWPLogo.png)
 
 ## Notice: **The Freedom Wrapper Guides Disclaimer**
 - The Guides for this section are broken down into two parts. The first part is a comprehensive walkthrough on how to get up and running with TFWP on Android Studio. This is the suggested route for those who would like to become developers. The second part is the walkthrough on how to get up and running with TFWP from your computer browser (yes, this is possible with automated workflows and, yes, you will be able to download an apk straight from the GitHub website to use your wrapper immediately). 
